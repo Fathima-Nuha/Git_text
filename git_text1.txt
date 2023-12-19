@@ -1,1 +1,1 @@
-Line 1: This is the first line for the first commit
+Line 1: This is the first line of Git_text1 for the first commit
