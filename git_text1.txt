@@ -2,3 +2,6 @@ Line 1: This is the first line of Git_text1 for the first commit
 
 testing for git branching and merging
 these lines were given for testing examples or versioning differently and if worked propery, would take it into main
+
+
+test writing again as branch has not been pushed to github insights not seen
