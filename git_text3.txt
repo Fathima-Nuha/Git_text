@@ -1,0 +1,1 @@
+Line 1: This is the first line of Git_text3 for the first commit
